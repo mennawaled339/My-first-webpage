@@ -1,1 +1,23 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>صفحة HTML بسيطة</title>
+</head>
+<body>
+
+    <h1>هذا هو عنوان الصفحة</h1>
+    <p>وهذا هو نص فقرة بسيطة.</p>
+
+    <ul>
+        <li>العنصر الأول</li>
+        <li>العنصر الثاني</li>
+        <li>العنصر الثالث</li>
+    </ul>
+
+    <a href="https://www.google.com">انقر هنا للانتقال إلى جوجل</a>
+
+</body>
+</html>
 
